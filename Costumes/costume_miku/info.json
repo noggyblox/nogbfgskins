@@ -6,8 +6,6 @@
   "type": "costume",
   "keepBase": false,
   "boneOffsets": [
-    { "bone": "Main FG", "x": 0, "y": 0, "z": 0 },
-    { "bone": "Body_LOD0 (merge)", "x": 0, "y": 0, "z": 0 },
     { "bone": "Torso_C_jnt_NoStrechSquash", "x": 0, "y": 0.00684391, "z": 3.4669E-11 },
     { "bone": "Chest_C_jnt", "x": -8.97163E-12, "y": 0.00446712, "z": -3.18953E-11 },
     { "bone": "Head_C_jnt01", "x": 9.27627E-11, "y": 0.00447696, "z": 0.000601744 },
