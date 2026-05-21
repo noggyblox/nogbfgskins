@@ -4,5 +4,13 @@
   "description": "",
   "file": "costume_bacon",
   "type": "costume",
-  "keepBase": false
+  "keepBase": false,
+  "boneOffsets": [
+    { "bone": "Wrist_R_jnt1", "x": 0.000103212, "y": -0.0020966, "z": 0.000449287 },
+    { "bone": "Wrist_L_jnt", "x": -1.86265E-11, "y": 0.00242465, "z": 5.82077E-10 },
+    { "bone": "Elbow_L_jnt", "x": 6.62112E-12, "y": 0.00345722, "z": 1.54548E-10 },
+    { "bone": "Elbow_R_jnt1", "x": 1.08024E-05, "y": -0.00219974, "z": 0.00025455 },
+    { "bone": "Shoulder_L_jnt", "x": -0.00180077, "y": 0.00191559, "z": 3.05134E-05 },
+    { "bone": "Shoulder_R_jnt1", "x": 0.00517646, "y": 0.00187281, "z": 0.000762404 }
+  ]
 }
